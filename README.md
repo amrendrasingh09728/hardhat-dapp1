@@ -2,12 +2,7 @@
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
-Try running some of the following tasks:
+I tried to create a basic hardhat project.
+In this project i tried to take input from user and print that value on screen using hardhat local blockchain and react app.
 
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+
